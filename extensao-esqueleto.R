@@ -355,8 +355,6 @@ write.csv(SINASC_MG, "SINASC_MG.csv", row.names = FALSE)
 
 # Ao terminar a ETAPA 1 commite e envie para o repositório REMOTO com o comentário "Dados da UF e Script Etapa 1"
 
-
-
 ##################################
 # ETAPA 2: BANCO DE DADOS DO SIM
 ##################################
